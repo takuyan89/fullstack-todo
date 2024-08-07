@@ -48,6 +48,15 @@ npx prisma migrate dev
 # サーバーを開発モードで起動します
 npm run dev
 
+
+```
+
+
+
+
+### サーバーのセットアップ
+
+```bash
 # クライアントディレクトリに移動します
 cd client
 
