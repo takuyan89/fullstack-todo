@@ -1,11 +1,14 @@
 # フルスタック Todo アプリ
 
+<img width="536" alt="スクリーンショット 2024-08-07 16 31 16" src="https://github.com/user-attachments/assets/237a66e8-03d5-4579-8ced-845d997f8c51">
+
+
 このプロジェクトは、フルスタックの Todo アプリケーションです。バックエンドは Express と Prisma を使用して構築されており、フロントエンドは Next.js と React を使用しています。SWR を使ってデータフェッチを効率的に行い、mutate を使ってクライアントサイドでのデータの更新を工夫しました。
 
 ## プロジェクト構成
 
 -   **Server**: Express、Prisma、TypeScript
--   **Client**: Next.js、React、Tailwind CSS、SWR
+-   **Client**: Next.js、React、Tailwind CSS
 
 ## 特徴
 
